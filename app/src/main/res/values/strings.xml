@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">New York City Tour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="parks_fragment">Parks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="museums_fragment">Museums</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="observation_decks_fragment">Observation Decks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="miscellaneous_fragment">Miscellaneous</string>
+
+    <!--Miscellaneous Fragment-->
+    <string name="the_highline">The Highline</string>
+    <string name="the_highline_des">Old train rail repurposed into an elevated walking park with walking trails and scenic overlooks of the city.</string>
+    <string name="the_highline_loc">820 Washington St</string>
+    <string name="the_highline_hours">Monday-Sunday 7am-11pm</string>
+
+    <string name="st_john">The Cathedral of St. John the Divine</string>
+    <string name="st_john_des">Historic cathedral in the heart of Manhattan\'s Morningside Heights neighborhood. Boasts title of world\'s largest cathedral.</string>
+    <string name="st_john_loc">1047 Amsterdam Ave</string>
+    <string name="st_john_hours">Monday-Saturday 9am-5pm, Sunday 1pm-3pm</string>
+
+    <string name="chelsea_market">Chelsea Market</string>
+    <string name="chelsea_market_des">Local indoor marketplace offering a selection of unique handmade goods, hip restaurants, and gourmet imports.</string>
+    <string name="chelsea_market_loc">75 9th Ave</string>
+    <string name="chelsea_market_hours">Monday-Saturday 7am-10pm, Sunday 8am-8pm</string>
+
+    <!--Museums Fragment-->
+    <string name="natural_history_museum">American Museum of Natural History</string>
+    <string name="natural_history_museum_des">Popular museum featuring an extensive collection of preserved specimens and priceless artifacts from around the world.</string>
+    <string name="natural_history_museum_loc">Central Park West &amp; 79th St</string>
+    <string name="natural_history_museum_hours">Monday-Sunday 10am-5:45pm</string>
+
+    <string name="guggenheim_museum">Solomon R. Guggenheim Museum</string>
+    <string name="guggenheim_museum_des">World renowned art works exhibited in an equally iconic building designed by Frank Lloyd Wright.</string>
+    <string name="guggenheim_museum_loc">1071 5th Ave</string>
+    <string name="guggenheim_museum_hours">Monday-Sunday 10am-5:45pm</string>
+
+    <string name="world_trade_center">Ground Zero Museum Workshop</string>
+    <string name="world_trade_center_des">Museum dedicated to the remembrance of victims of September 11, located on the site of what once was the World Trade Center.</string>
+    <string name="world_trade_center_loc">420 W 14th St, Floor 2</string>
+    <string name="world_trade_center_hours">Wednesday-Sunday 11am-3pm</string>
+
+    <!--Observation Decks Fragment-->
+    <string name="one_world_obs">One World Observatory</string>
+    <string name="one_world_obs_des">Highest observation deck featuring 360-degree views of the city, located on top of the One World Trade Center.</string>
+    <string name="one_world_obs_loc">285 Fulton St</string>
+    <string name="one_world_obs_hours">Monday-Sunday 8am-9pm</string>
+
+    <string name="thirty_rock">Top of the Rock</string>
+    <string name="thirty_rock_des">Located on top of the NBC Studios at Rockefeller Plaza,it features sights overlooking the Empire State Building and Central Park.</string>
+    <string name="thirty_rock_loc">30 Rockefeller Plaza</string>
+    <string name="thirty_rock_hours">Monday-Sunday 8am-12:30am</string>
+
+    <string name="empire_state">Empire State Building Observatory</string>
+    <string name="empire_state_des">Popular observation deck, where you will not be able to see one of the most iconic skyscrapers.</string>
+    <string name="empire_state_loc">350 5th Ave</string>
+    <string name="empire_state_hours">Monday-Sunday 8am-2am</string>
+
+    <!--Parks Fragment-->
+    <string name="central_park">Central Park</string>
+    <string name="central_park_des">Iconic green area located in the heart of Manhattan offering an extensive biking and walking trail system.</string>
+    <string name="central_park_loc">59th to 110th Street</string>
+    <string name="central_park_hours">Monday-Sunday 6am-1am</string>
+
+    <string name="bryant_park">Bryant Park</string>
+    <string name="bryant_park_des">Located in Midtown, this park is known for its calmness and cleanness amongst the locals.</string>
+    <string name="bryant_park_loc">98–74 W 40th St</string>
+    <string name="bryant_park_hours">Monday-Sunday 7am-10pm</string>
+
+    <string name="brooklyn_bridge_park">Brooklyn Bridge Park</string>
+    <string name="brooklyn_bridge_des">Scenic park located under the iconic bridge with scenic views of Lower Manhattan from across the East River.</string>
+    <string name="brooklyn_bridge_loc">334 Furman St</string>
+    <string name="brooklyn_bridge_hours">Monday-Sunday 6am-1am</string>
+
+
+
+</resources>
