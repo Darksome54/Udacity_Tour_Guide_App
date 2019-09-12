@@ -1,6 +1,14 @@
 # Udacity_Tour_Guide_App
 Tour guide app of popular tourist destinations and points of interest in New York City. 
 <br>
+Implements Parallax Scrolling Header with TabLayout & CollapsingToolbarLayout
+<br>
+Intents implemented to launch activities upon clicking on the following:
+<br>
+Address
+<br>
+This app loosely follows the most current Material Design guidelines.
+<br>
 <img src="https://user-images.githubusercontent.com/38291329/64818722-7c920880-d561-11e9-8e66-ecfdb92c7895.png" width="15%"></img> 
 <img src="https://user-images.githubusercontent.com/38291329/64819283-bca5bb00-d562-11e9-9a24-0ae0cdde24bb.png" width="15%"></img> 
 <img src="https://user-images.githubusercontent.com/38291329/64818760-96335000-d561-11e9-8195-6ad89cf1aad8.png" width="15%"></img> 
