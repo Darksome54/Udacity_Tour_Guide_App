@@ -1,12 +1,18 @@
 package com.example.android.tourguideapp;
 
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
+import androidx.viewpager.widget.ViewPager;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -45,8 +51,22 @@ public class MuseumsFragment extends Fragment {
                 R.drawable.world_trade_center));
 
         SubjectsAdapter adapter = new SubjectsAdapter(getActivity(), words);
-        ListView listView = (ListView) rootView.findViewById(R.id.list);
+        ListView listView = rootView.findViewById(R.id.list);
+
+        //Allows the CollapsingToolbar to scroll up with the ViewPager
+        listView.setNestedScrollingEnabled(true);
         listView.setAdapter(adapter);
+
+        /**listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                String location = ((TextView)view.findViewById(R.id.location_text_view)).getText().toString();
+                Uri gmmIntentUri = Uri.parse("geo:0,0?q=" + "+" + location + ", NYC" );
+                Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
+                mapIntent.setPackage("com.google.android.apps.maps");
+                startActivity(mapIntent);
+            }
+        });**/
 
         return rootView;
     }

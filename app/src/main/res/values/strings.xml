@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">New York City Tour</string>
+    <string name="app_name">App Name</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="parks_fragment">Parks</string>
@@ -32,7 +32,7 @@
     <!--Museums Fragment-->
     <string name="natural_history_museum">American Museum of Natural History</string>
     <string name="natural_history_museum_des">Popular museum featuring an extensive collection of preserved specimens and priceless artifacts from around the world.</string>
-    <string name="natural_history_museum_loc">Central Park West &amp; 79th St</string>
+    <string name="natural_history_museum_loc">Central Park West and 79th St</string>
     <string name="natural_history_museum_hours">Monday-Sunday 10am-5:45pm</string>
 
     <string name="guggenheim_museum">Solomon R. Guggenheim Museum</string>
